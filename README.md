@@ -1,5 +1,7 @@
 # Project Link : 
 https://app.fabric.microsoft.com/links/DeplcucylJ?ctid=b1ecfa5f-bf5c-4d47-8691-c39477ec0ac6&pbi_source=linkShare&bookmarkGuid=bbc91e5e-5f9a-40ed-8eb4-1ae9123ae24a
+<img width="1305" height="732" alt="Screenshot_10-11-2026_14542_app fabric microsoft com" src="https://github.com/user-attachments/assets/e9f3c22f-fe1d-4fb0-ba11-61a40f8cad70" />
+
 
 # Real-Time Football Match Telemetry & Spatial Intelligence (FA Cup)
 
